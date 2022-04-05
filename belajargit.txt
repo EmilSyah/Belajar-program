@@ -2,3 +2,5 @@ Ini lagi belajar bikin file di github.
 sedang belajar bikin Repository.
 Sedang mau belajar cara commit.
 Belajar bikin perubahan di file git.
+Tulisan ini merupakan tambahan edit file pertama kali di file ini.
+Taadi caranya, klik dulu (open) filenya, lalu klik edit (gambar pensil).
