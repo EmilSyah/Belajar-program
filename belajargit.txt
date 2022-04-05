@@ -1,0 +1,4 @@
+Ini lagi belajar bikin file di github.
+sedang belajar bikin Repository.
+Sedang mau belajar cara commit.
+Belajar bikin perubahan di file git.
